@@ -24,7 +24,7 @@ building LLM products.
 #### Projects
 
 - **[CEROP Risk Console](https://github.com/divyagopalnadar/cerop-console)**: team ML project (Westcliff AIT 506). XGBoost financial-distress and delivery-risk models behind a decision console
-- **[Aurél Studio](https://github.com/divyagopalnadar/aurel-studio)**: full-stack storefront with Next.js 16, React 19, TypeScript, Tailwind CSS 4 and Prisma
+- **[Aurél Studio](https://divyagopalnadar.github.io/aurel-studio/)** ([source](https://github.com/divyagopalnadar/aurel-studio)): full-stack storefront with Next.js 16, React 19, TypeScript, Tailwind CSS 4 and Prisma
 - **[divyagopalnadar.github.io](https://github.com/divyagopalnadar/divyagopalnadar.github.io)**: my portfolio, built with React, TypeScript and Vite, and tested with Vitest
 - **[Harvest Lane](https://divyagopalnadar.github.io/harvest-lane/)**: fresh-produce storefront rebuilt from my 2020 VitaPure app in modern Angular 22 (standalone, zoneless, signals)
 - **[NFT Minter](https://github.com/divyagopalnadar/nft-minter)**: Solana minting dApp with Next.js and wallet-adapter
