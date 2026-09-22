@@ -1,7 +1,7 @@
 ### Hi, I'm Divya 👋
 
 Senior Frontend & AI/ML Engineer in San Francisco. I've spent ten years building enterprise SaaS, most recently
-four years on Fortinet's security products, where I led frontend architecture for the **FortiSIEM data
+four years on Fortinet's security products, where I designed and shipped the frontend of the **FortiSIEM data
 exploration suite** (more than $2M in new revenue) and shipped **FortiAI**, an LLM-powered analyst
 assistant that streams its answers.
 
