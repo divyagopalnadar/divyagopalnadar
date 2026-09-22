@@ -23,7 +23,7 @@ building LLM products.
 
 #### Projects
 
-- **[CEROP Risk Console](https://arthunya.github.io/cerop-console/)**: team ML project (Westcliff AIT 506). XGBoost financial-distress and delivery-risk models behind a decision console
+- **[CEROP Risk Console](https://github.com/divyagopalnadar/cerop-console)**: team ML project (Westcliff AIT 506). XGBoost financial-distress and delivery-risk models behind a decision console
 - **[Aurél Studio](https://github.com/divyagopalnadar/aurel-studio)**: full-stack storefront with Next.js 16, React 19, TypeScript, Tailwind CSS 4 and Prisma
 - **[divyagopalnadar.github.io](https://github.com/divyagopalnadar/divyagopalnadar.github.io)**: my portfolio, built with React, TypeScript and Vite, and tested with Vitest
 - **[VitaPure](https://vitapure-d3db6.web.app/home)**: Angular Material grocery storefront (2022)
