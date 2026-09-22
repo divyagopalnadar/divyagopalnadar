@@ -1,0 +1,34 @@
+### Hi, I'm Divya 👋
+
+Senior Frontend Engineer in San Francisco. I've spent ten years building enterprise SaaS, most recently
+four years on Fortinet's security products, where I led frontend architecture for the **FortiSIEM data
+exploration suite** (more than $2M in new revenue) and shipped **FortiAI**, an LLM-powered analyst
+assistant that streams its answers.
+
+I like hard UI problems: very large datasets, real-time streams, and interfaces that analysts use
+all day.
+
+**Portfolio:** [divyagopalnadar.github.io](https://divyagopalnadar.github.io) ·
+**LinkedIn:** [in/divyagopalnadar](https://www.linkedin.com/in/divyagopalnadar) ·
+**Email:** divyagopalnadar@gmail.com
+
+#### Selected work
+
+| | |
+|---|---|
+| **FortiSIEM data exploration** · Fortinet | Federated Search, ClickHouse-backed filtering and a SQL Console for SOC analysts. $2M+ incremental revenue. |
+| **FortiAI analyst assistant** · Fortinet | Prompt-driven assistant on Azure OpenAI, streaming responses over WebSockets. |
+| **DSAR automation platform** · Morae | Privacy-compliance workflows on the MEAN stack. 90% faster processing, ~74% lower cost. |
+
+#### Projects
+
+- **[Aurél Studio](https://github.com/divyagopalnadar/aurel-studio)**: full-stack storefront with Next.js 16, React 19, TypeScript, Tailwind CSS 4 and Prisma
+- **[divyagopalnadar.github.io](https://github.com/divyagopalnadar/divyagopalnadar.github.io)**: my portfolio, built with React, TypeScript and Vite, and tested with Vitest
+- **[VitaPure](https://vitapure-d3db6.web.app/home)**: Angular Material grocery storefront (2022)
+- **[NFT Minter](https://github.com/divyagopalnadar/nft-minter)**: Solana minting dApp with Next.js and wallet-adapter
+
+#### Toolkit
+
+`TypeScript` `Angular` `React` `Next.js` `Node.js` `Express` `MongoDB` `SQL` `Highcharts` `D3.js` `Azure OpenAI` `WebSockets` `AWS`
+
+Currently finishing an M.S. in Computer Science (ML, NLP, deep learning) at Westcliff University, and open to senior frontend roles.
