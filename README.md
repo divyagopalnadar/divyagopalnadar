@@ -33,4 +33,4 @@ building LLM products.
 
 `TypeScript` `Angular` `React` `Next.js` `Node.js` `Express` `MongoDB` `SQL` `Highcharts` `D3.js` `Azure OpenAI` `XGBoost` `WebSockets` `AWS`
 
-Currently finishing an M.S. in Computer Science (ML, NLP, deep learning) at Westcliff University, and open to senior frontend and AI/ML engineering roles.
+Currently finishing an M.S. in Computer Science with a concentration in AI and ML at Westcliff University, and open to senior frontend and AI/ML engineering roles.
